@@ -1,9 +1,2 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
+Welcome, here is the initial. Up next will be creating the project and pushing to both github and gitlab within the same remote.
 
-# WESTERN GOVERNORS UNIVERSITY
-
-## D683 – ADVANCED AI AND ML
-
-Welcome to Advanced AI and ML!
-
-For specific task instructions and requirements for this assessment, please refer to the course page.
