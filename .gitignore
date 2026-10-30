@@ -1,0 +1,6 @@
+.venv
+weather_cache
+.idea/
+.DS_Store
+
+
