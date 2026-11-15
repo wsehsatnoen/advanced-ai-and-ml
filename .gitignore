@@ -4,7 +4,9 @@
 
 # Don't have the data stored on git
 weather_cache
+m5_cache
 
 # No need to have these tracked
 .idea/
 .DS_Store
+.env
