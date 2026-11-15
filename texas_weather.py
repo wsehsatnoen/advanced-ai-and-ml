@@ -38,10 +38,10 @@ Commands
        python texas_weather.py fetch --cache weather_cache
   2) Training features for every M5 calendar day:
        python texas_weather.py build --cache weather_cache \
-           --calendar m5/calendar.csv --out texas_weather_train.csv
+           --calendar m5_cache/calendar.csv --out texas_weather_train.csv
   3) Forecast-window features for each validation/test window:
        python texas_weather.py horizon --cache weather_cache \
-           --calendar m5/calendar.csv --horizon 28 \
+           --calendar m5_cache/calendar.csv --horizon 28 \
            --first-days 2016-02-01,2016-02-29,2016-03-28,2016-04-25 \
            --out texas_weather_horizon.csv
 
